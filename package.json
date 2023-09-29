@@ -1,0 +1,12 @@
+{
+  "name": "mimicawebsite",
+  "version": "1.0.0",
+  "description": "Attempting to use Vite framework to mimic a friends website!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
